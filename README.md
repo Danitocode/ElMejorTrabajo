@@ -1,7 +1,7 @@
 # ElMejorTrabajo
 
 
-Caracteristicas:
+## Caracteristicas:
 
     - Dispocición al usuario de el mayor número de trabajos en España (de momento solo en España).
     - Disponibilidad de manejar y buscar trabajos en la web (filtrado, orden, y más herramientas de busqueda personalizables y necesarias).
